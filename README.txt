@@ -1,10 +1,9 @@
 
-## Problem Code
+## Problem Code : 1281
 
- : 1281
 Screenshot of SIH Mentioned Problem :
 
-<img src="./assets/images/sih_p.png">
+[![SIH_PROBLEM](./assets/images/sih_p.png)]
 
 Solution Description : Fostering Legal Literacy and Awareness Among Children in India through  a Gamed Platform
 
@@ -34,7 +33,7 @@ Use Case Approach : ⮚ Children's Rights Learning: Educate Indian
                                   ⮚ Legal Advocacy and Support: Empower legal
                                       professionals to guide children effectively
 **Team Details**
-Members Name - Aditya Gupta
+Members Name - 		     Aditya Gupta
                              Durgesh Mishra
                              Manjeet Singh
                              Poorvi Pandey
