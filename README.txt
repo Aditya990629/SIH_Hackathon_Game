@@ -1,10 +1,10 @@
+
 ## Problem Code
 
  : 1281
-Screenshot of SIH Mentioned Problem : [
-![image](https://imgur.com/a/sVyoTsY)
-](URL)
+Screenshot of SIH Mentioned Problem :
 
+<img title="a title" alt="Alt text" src="/assets/images/sih_p.png">
 
 Solution Description : Fostering Legal Literacy and Awareness Among Children in India through  a Gamed Platform
 
