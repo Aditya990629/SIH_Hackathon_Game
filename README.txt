@@ -3,7 +3,7 @@
 
 Screenshot of SIH Mentioned Problem :
 
-[![SIH_PROBLEM](./assets/images/sih_p.png)]
+![SIH_PROBLEM](./assets/images/sih_p.png)
 
 Solution Description : Fostering Legal Literacy and Awareness Among Children in India through  a Gamed Platform
 
