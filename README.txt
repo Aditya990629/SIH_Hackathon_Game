@@ -1,5 +1,4 @@
-
-## Problem Code : 1281
+# Problem Code : 1281
 
 Screenshot of SIH Mentioned Problem :
 
