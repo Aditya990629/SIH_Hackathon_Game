@@ -2,7 +2,7 @@
 
  : 1281
 Screenshot of SIH Mentioned Problem : [
-![image](https://github.com/Mukul1312/SIH-Internal-Submissions/assets/130909534/7134aef9-e09c-472b-b6aa-2842578933bb)
+![image](https://imgur.com/a/sVyoTsY)
 ](URL)
 
 
